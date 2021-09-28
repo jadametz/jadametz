@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm an Engineering Manager currently focused on Tooling.**
+**I'm a Senior Engineering Manager currently focused on Twilio Segment's Developer Platform.**
 
 - 🏢 I'm currently working at **[Segment](https://segment.com/)**
 - 🌍 I'm passionate about **remote work** and do so from my home in **Orlando, FL**
